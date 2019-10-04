@@ -1,0 +1,9 @@
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\bin\Debug\AssessmentTwoApplication.exe.config
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\bin\Debug\AssessmentTwoApplication.exe
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\bin\Debug\AssessmentTwoApplication.pdb
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.Main.resources
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.PictureForm.resources
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.Properties.Resources.resources
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.csproj.GenerateResource.cache
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.exe
+C:\Users\Lachlan Ashton\Desktop\Ass 2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.pdb
