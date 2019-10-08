@@ -72,6 +72,7 @@
             this.btnOpenApp3.TabIndex = 3;
             this.btnOpenApp3.Text = "Add User App";
             this.btnOpenApp3.UseVisualStyleBackColor = true;
+            this.btnOpenApp3.Click += new System.EventHandler(this.btnOpenApp3_Click);
             // 
             // Main
             // 

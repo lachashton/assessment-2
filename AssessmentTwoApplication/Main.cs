@@ -47,5 +47,11 @@ namespace AssessmentTwoApplication
         {
 
         }
+
+        private void btnOpenApp3_Click(object sender, EventArgs e)
+        {
+            AddUserForm addUserApp = new AddUserForm();
+            addUserApp.ShowDialog();
+        }
     }
 }

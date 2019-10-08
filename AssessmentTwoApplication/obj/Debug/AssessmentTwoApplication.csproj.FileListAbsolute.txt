@@ -18,3 +18,4 @@ C:\Users\Lachlan Ashton\Documents\GitHub\assessment-2\AssessmentTwoApplication\o
 C:\Users\Lachlan Ashton\Documents\GitHub\assessment-2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.csproj.GenerateResource.cache
 C:\Users\Lachlan Ashton\Documents\GitHub\assessment-2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.exe
 C:\Users\Lachlan Ashton\Documents\GitHub\assessment-2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.pdb
+C:\Users\Lachlan Ashton\Documents\GitHub\assessment-2\AssessmentTwoApplication\obj\Debug\AssessmentTwoApplication.AddUserForm.resources
