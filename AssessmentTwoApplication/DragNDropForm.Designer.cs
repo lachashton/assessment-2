@@ -28,24 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblDropArea = new System.Windows.Forms.Label();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
-            // lblDropArea
+            // listBox1
             // 
-            this.lblDropArea.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblDropArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDropArea.Location = new System.Drawing.Point(185, 183);
-            this.lblDropArea.Name = "lblDropArea";
-            this.lblDropArea.Size = new System.Drawing.Size(449, 159);
-            this.lblDropArea.TabIndex = 0;
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(59, 64);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(161, 244);
+            this.listBox1.TabIndex = 1;
             // 
             // DragNDropForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.lblDropArea);
+            this.Controls.Add(this.listBox1);
             this.Name = "DragNDropForm";
             this.Text = "DragNDropForm";
             this.ResumeLayout(false);
@@ -54,6 +54,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lblDropArea;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
