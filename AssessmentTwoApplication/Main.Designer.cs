@@ -31,6 +31,7 @@
             this.btnOpenApp1 = new System.Windows.Forms.Button();
             this.btnOpenApp2 = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.btnOpenApp3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpenApp1
@@ -39,7 +40,7 @@
             this.btnOpenApp1.Name = "btnOpenApp1";
             this.btnOpenApp1.Size = new System.Drawing.Size(168, 76);
             this.btnOpenApp1.TabIndex = 0;
-            this.btnOpenApp1.Text = "Open Image App";
+            this.btnOpenApp1.Text = "Image App";
             this.btnOpenApp1.UseVisualStyleBackColor = true;
             this.btnOpenApp1.Click += new System.EventHandler(this.btnOpenApp1_Click);
             // 
@@ -49,7 +50,7 @@
             this.btnOpenApp2.Name = "btnOpenApp2";
             this.btnOpenApp2.Size = new System.Drawing.Size(168, 76);
             this.btnOpenApp2.TabIndex = 1;
-            this.btnOpenApp2.Text = "Open Drag & Drop App";
+            this.btnOpenApp2.Text = "Drag n Drop App";
             this.btnOpenApp2.UseVisualStyleBackColor = true;
             this.btnOpenApp2.Click += new System.EventHandler(this.btnOpenApp2_Click);
             // 
@@ -63,11 +64,21 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // btnOpenApp3
+            // 
+            this.btnOpenApp3.Location = new System.Drawing.Point(43, 297);
+            this.btnOpenApp3.Name = "btnOpenApp3";
+            this.btnOpenApp3.Size = new System.Drawing.Size(168, 76);
+            this.btnOpenApp3.TabIndex = 3;
+            this.btnOpenApp3.Text = "Add User App";
+            this.btnOpenApp3.UseVisualStyleBackColor = true;
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(982, 620);
+            this.ClientSize = new System.Drawing.Size(259, 511);
+            this.Controls.Add(this.btnOpenApp3);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnOpenApp2);
             this.Controls.Add(this.btnOpenApp1);
@@ -83,6 +94,7 @@
         private System.Windows.Forms.Button btnOpenApp1;
         private System.Windows.Forms.Button btnOpenApp2;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnOpenApp3;
     }
 }
 

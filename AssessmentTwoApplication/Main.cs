@@ -4,7 +4,7 @@
 //Date: 08/10/2019
 //Software: Microsoft Visual Studio Community 2019
 //Platform: Microsoft Windows 10 Professional 64‐bit
-//Purpose: To give access to many different examples of applications (A 2d Drawing done withing the code, and aapp that allows drag and drop)
+//Purpose: Give a user access to various differant application demonstations
 //*********************************************************************
 
 using System;
