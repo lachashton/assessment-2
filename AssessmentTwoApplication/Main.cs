@@ -53,5 +53,17 @@ namespace AssessmentTwoApplication
             AddUserForm addUserApp = new AddUserForm();
             addUserApp.ShowDialog();
         }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start(@"C:\Help-Doc.pdf"); //open the help document
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("You must have the Help File located at the C:\\ Directory");
+            }
+        }
     }
 }
